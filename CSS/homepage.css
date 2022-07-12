@@ -1,0 +1,45 @@
+
+
+body{
+    background-color: #f8e9d8
+}
+.main{
+    display: block;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: "HanziPen SC", serif;
+    font-weight: bolder;
+    color: #af6c3b;
+    font-size: 35px;
+
+}
+
+.nav{
+    text-align: center;
+}
+.nav>a{
+    text-decoration: none;
+    color: #676666;
+    font-family: "HanziPen SC", serif;
+    font-size: large;
+}
+a:hover{
+    color: black;
+}
+a:visited{
+    color: #61796b;
+}
+.homeImage{
+    display:block;
+    text-align: center;
+}
+.homeImage img{
+    height: 25%;
+    width: 25%;
+    vertical-align: top;
+    border-radius: 10px;
+}
+
+
